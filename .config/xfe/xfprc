@@ -1,0 +1,11 @@
+[OPTIONS]
+filename=
+height=600
+width=800
+showtoolbar=1
+
+[SETTINGS]
+basecolor=#ede9e3
+tiptime=10000
+tippause=500
+

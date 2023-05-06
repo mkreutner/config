@@ -1,0 +1,34 @@
+[OPTIONS]
+height=600
+textnumberforeground=Green
+width=800
+textselbackground=#0a246a
+linesnum=1
+wordwrap=0
+textfont=Source Code Pro [ADBO],100,normal,regular
+hidestatus=0
+texthiliteforeground=Black
+textcursor=Black
+textforeground=Black
+searchpath=
+tabcols=8
+texthilitebackground=#ff8080
+wrapcols=80
+hidetoolbar=0
+stripreturn=0
+hilitematchtime=3000
+textnumberbackground=Black
+textbackground=Gray100
+textselforeground=Gray100
+
+[SETTINGS]
+basecolor=#ede9e3
+tippause=500
+tiptime=10000
+
+[Recent Files]
+FILE4=/home/mkreutner/Downloads/rc.lua
+FILE2=/home/mkreutner/.ssh/known_hosts
+FILE3=/home/mkreutner/.ssh/config
+FILE1=/home/mkreutner/.gitconfig
+
